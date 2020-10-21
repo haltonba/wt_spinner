@@ -69,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # yoyo
 # wt-spinner
 # wt_spinner
+# wt_spinner
